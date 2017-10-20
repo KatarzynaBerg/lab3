@@ -1,4 +1,3 @@
 # lab3
-Repozytorium na laboratorium 3 
-
-Wioletta Król 104286
+Repozytorium na laboratorium 3
+Anita Florczuk 89861
